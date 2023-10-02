@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/isamathr/isamathr/assets/134223309/9815d49f-87a3-473c-8770-7bbcdd4bbfb7" width="700">
+</p>
+
 <h1 align="center">I'm Ilias Samathrakis</h1>
 <h3 align="center">In mission of helping data reveal its story</h3>
 
